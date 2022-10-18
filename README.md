@@ -1,10 +1,6 @@
-### Hi there 👋
-
 <!--
 **emito69/emito69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +9,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+En el README de github no puedo añadir scrpits de java o css, tengo que trabajar directamente con atributos en html
 -->
+
+
+
+<div id="header" align="center">
+<h1 align="center"> Hi, I'm Emiliano Alvarez</h1>
+<h3 align="center"> I´m an electronic engineer working as an Instrumentation and control engineer at Transportadora de Gas del Sur (TGS) in Argentina.</h3>
+<h3 align="center"> I also studied MAchine Learnign, Artificial Intelligence and web develepment</h3>
+</div>
+
+
