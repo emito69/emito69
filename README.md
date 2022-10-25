@@ -19,6 +19,7 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
   <h3 align="center"> I've also finished courses of Machine Learnign, Artificial Intelligence and Web develepment courses.</h3>
 </div>
 
+
 <div id="badges" align="center">
     <a href="www.linkedin.com/in/emiliano-alvarez-a6677b1b4">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"  style="max-width: 100%;">
@@ -26,6 +27,8 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 </div>
 
 ---
+
+<br>
 
 ### About me :
 
@@ -35,10 +38,10 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 
 - 📫 How to reach me: alvarezemiliano@gmail.com
 
----
+<br>
 
 <div align="left">
- <h3> 🛠 Lenguages & Tools</h3>
+ <h3> 🛠 Lenguages & Tools </h3>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" height="30" width="40"/>
@@ -50,16 +53,19 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" height="30" width="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" height="30" width="40" style="filter: invert(50%);"/> 
+  <br>
 </div>
 
----
 
-### 📊 My Stats :
+  <h3>  📊 My Stats : </h3>
 
+  <div align="center">
+    
    [![GitHub Streak](https://streak-stats.demolab.com?user=emito69&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
    
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emito69&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emito69&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emito69&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+    <br>
+</div>
 
