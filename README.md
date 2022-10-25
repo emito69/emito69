@@ -41,7 +41,7 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 <br>
 
 <div align="left">
- <h3> 🛠 Lenguages & Tools </h3>
+ <h3> 🛠 Lenguages & Tools : </h3>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" height="30" width="40"/>
@@ -53,6 +53,8 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" height="30" width="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" height="30" width="40" style="filter: invert(50%);"/> 
+  <br>
+  <br>
   <br>
 </div>
 
