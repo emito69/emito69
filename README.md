@@ -15,8 +15,8 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 
 <div id="header" align="center">
   <h1 align="center">  Hi, I'm Emiliano Alvarez. 👋</h1>
-  <h3 align="center"> I´m an electronic engineer working as an Instrumentation and Control Engineer at Transportadora de Gas del Sur (TGS) in Argentina.</h3>
-  <h3 align="center"> I've also finished courses of Machine Learnign, Artificial Intelligence and Web develepment courses.</h3>
+  <h4 align="center"> I´m an electronic engineer working as an Instrumentation and Control Engineer at Transportadora de Gas del Sur (TGS) in Argentina.</h4>
+  <h4 align="center"> I've also finished courses of Machine Learnign, Artificial Intelligence and Web develepment courses.</h4>
 </div>
 
 
@@ -26,11 +26,9 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
     </a>
 </div>
 
----
+<hr>
 
-<br>
-
-### About me :
+### About me : 
 
 - 👯 I’m looking to collaborate on web developmet projects.
 
@@ -39,9 +37,9 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 - 📫 How to reach me: alvarezemiliano@gmail.com
 
 <br>
-
+<hr>
 <div align="left">
- <h3> 🛠 Lenguages & Tools : </h3>
+ <h2> 🛠 Lenguages & Tools : </h2>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" height="30" width="40"/>
@@ -55,11 +53,10 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" height="30" width="40" style="filter: invert(50%);"/> 
   <br>
   <br>
-  <br>
 </div>
 
 
-  <h3>  📊 My Stats : </h3>
+  <h2>  📊 My Stats : </h2>
 
   <div align="center">
     
