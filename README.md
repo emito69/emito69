@@ -16,7 +16,7 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 <div id="header" align="center">
   <h1 align="center">  Hi, I'm Emiliano Alvarez. 👋</h1>
   <h4 align="center"> I´m an electronic engineer working as an Instrumentation and Control Engineer at Transportadora de Gas del Sur (TGS) in Argentina.</h4>
-  <h4 align="center"> I've also finished courses of Machine Learnign, Artificial Intelligence and Web develepment courses.</h4>
+  <h4 align="center"> I've also finished courses of Machine Learnign, Artificial Intelligence and Web develepment.</h4>
 </div>
 
 
@@ -48,6 +48,7 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" height="30" width="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" height="30" width="40"/> 
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" height="30" width="40"/> 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" height="30" width="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" height="30" width="40" style="filter: invert(50%);"/> 
