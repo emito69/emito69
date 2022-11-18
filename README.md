@@ -24,6 +24,10 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
     <a href="https://www.linkedin.com/in/emiliano-alvarez-a6677b1b4/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"  style="max-width: 100%;">
     </a>
+    <a href="https://trailblazer.me/id/emialva">
+        <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge" alt="Salesforce Badge"  style="max-width: 100%;">
+    </a>  
+  
 </div>
 
 <hr>
