@@ -52,7 +52,7 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" height="30" width="40"/>
    
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" height="30" width="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" title="Spring" alt="Spring" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" height="30" width="40"/>
    
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" height="30" width="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="30" width="40"/>
