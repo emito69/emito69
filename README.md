@@ -36,7 +36,7 @@ En el README de github no puedo añadir scrpits de java o css, tengo que trabaja
 
 - 👯 I’m looking to collaborate on web developmet projects.
 
-- 📝 I’m currently learning new web programming skills
+- 📝 I’m currently learning new back and front-end programming skills
 
 - 📫 How to reach me: alvarezemiliano@gmail.com
 
